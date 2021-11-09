@@ -1,0 +1,3 @@
+/Users/seg/Desktop/UBC BCS/2021 W1/CPSC 427/cs-427/a3/build/CMakeFiles/rebuild_cache.dir
+/Users/seg/Desktop/UBC BCS/2021 W1/CPSC 427/cs-427/a3/build/CMakeFiles/edit_cache.dir
+/Users/seg/Desktop/UBC BCS/2021 W1/CPSC 427/cs-427/a3/build/CMakeFiles/salmon.dir
