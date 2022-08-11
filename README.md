@@ -2,8 +2,6 @@
 
 Name: Enguang Shi
 
-Student Number: 78489762
-
 Added Features:
 
 1. If switch on the advanced mode, only 1 turtle will be spawned and always chasing the salmon at frequency X.
